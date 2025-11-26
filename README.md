@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://www.picmix.com/stamp/Komodo-Dragon-1703908)
+
 - 🔭 I’m currently working on Individual Niche Variation
 - 👯 I’m looking to collaborate on LeVin in State University of Campinas
 - 💬 Ask me about Animal Behaviour and Animal Contest
