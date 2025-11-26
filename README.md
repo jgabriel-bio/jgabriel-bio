@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://www.picmix.com/stamp/Komodo-Dragon-1703908)
+![]([https://www.picmix.com/stamp/Komodo-Dragon-1703908](https://i.gifer.com/37O6.gif))
 
 - 🔭 I’m currently working on Individual Niche Variation
 - 👯 I’m looking to collaborate on LeVin in State University of Campinas
